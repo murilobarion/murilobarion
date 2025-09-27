@@ -51,14 +51,6 @@ Sou apaixonado por tecnologia e por transformar ideias em realidade, com foco es
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
 />
-<img 
-    align="left" 
-    alt="ESP32 (Espressif)" 
-    title="ESP32 (Espressif)"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/espressif/espressif-original.svg" 
-/>
   <img
     align="left"
     alt="Git"
