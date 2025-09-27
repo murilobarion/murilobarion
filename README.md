@@ -65,7 +65,7 @@ Sou apaixonado por tecnologia e por transformar ideias em realidade, com foco es
 <br/>
 <br/>
 
-## Estatísticas
+## Minhas Estatísticas 📊
 
 <p>
   <img
