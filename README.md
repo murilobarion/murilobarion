@@ -43,14 +43,6 @@ Sou apaixonado por tecnologia e por transformar ideias em realidade, com foco es
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
   />
-  <img
-    align="left"
-    alt="Markdown"
-    title="Markdown"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"
-  />
 </p>
 
 <br/>
