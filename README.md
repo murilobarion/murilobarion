@@ -1,6 +1,6 @@
-**Jovem Aprendiz | Tecnologia e Desenvolvimento**
+# Murilo Barion 👨‍💻
 
-Me chamo Murilo Barion, sou de Osasco, SP, e um eterno curioso. Atualmente, estou no Ensino Médio e cursando o Técnico em Informática na Escola Fundação Bradesco. Sou apaixonado por tecnologia e por transformar ideias em realidade, com foco especial em **Python** e **Design**. Estou sempre buscando aprender mais, seja mergulhando em projetos de código ou criando artes digitais.
+## Jovem Aprendiz | Tecnologia e Desenvolvimento
 
 <p align="left">
     <a href="#">
