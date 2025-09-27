@@ -64,7 +64,7 @@ Sou apaixonado por tecnologia e por transformar ideias em realidade, com foco es
 <br/>
 <br/>
 <br/>
-## 📊 Minhas Estatísticas no GitHub
+### 📊 Estatísticas
 <p>
   <img
     align="left"
