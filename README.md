@@ -43,14 +43,6 @@ Sou apaixonado por tecnologia e por transformar ideias em realidade, com foco es
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Arduino" 
-    title="Arduino"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
-/>
   <img
     align="left"
     alt="Git"
@@ -59,6 +51,14 @@ Sou apaixonado por tecnologia e por transformar ideias em realidade, com foco es
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
   />
+  <img 
+    align="left" 
+    alt="Arduino" 
+    title="Arduino"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
+/>
 </p>
 
 <br/>
