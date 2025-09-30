@@ -1,4 +1,4 @@
-# Murilo Barion👨‍💻
+# Murilo Barion 👨‍💻
 
 ## Jovem Aprendiz | Tecnologia e Desenvolvimento
 
