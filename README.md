@@ -2,7 +2,7 @@
 
 **`Jovem Aprendiz | Tecnologia e Desenvolvimento`**
 
-Desenvolvedor e designer em formação,com interesse em tecnologia, robótica eautomação. Tenho experiência na criaçãode identidades visuais e estouaprimorando minhas habilidades emPython, HTML, CSS e JavaScript. Buscouma oportunidade como Jovem Aprendizna área de tecnologia, para aplicar meusconhecimentos, desenvolver soluçõescriativas e evoluir profissionalmente emum ambiente dinâmico e inovador.
+Desenvolvedor e designer em formação,com interesse em tecnologia, robótica e automação. Tenho experiência na criação de identidades visuais e estou aprimorando minhas habilidades em Python, HTML, CSS e JavaScript. Busco uma oportunidade como Jovem Aprendizna área de tecnologia, para aplicar meus conhecimentos, desenvolver soluções criativas e evoluir profissionalmente em um ambiente dinâmico e inovador.
 
 ---
 
