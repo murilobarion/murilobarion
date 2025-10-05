@@ -17,8 +17,6 @@ Desenvolvedor e designer em formação,com interesse em tecnologia, robótica ea
   <img align="center" alt="Git" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div><br>
 
-<br/>
-
 ## 🏆 Prêmios, Cursos e Certificações
 
 Descrição   | Instituição   | Ano | Tipo
