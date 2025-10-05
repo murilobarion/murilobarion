@@ -14,9 +14,9 @@ Desenvolvedor e designer em formação,com interesse em tecnologia, robótica ea
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C++" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Git" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div><br>
 
-<br/>
 <br/>
 
 ## 🏆 Prêmios, Cursos e Certificações
