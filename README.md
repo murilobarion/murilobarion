@@ -17,14 +17,14 @@ Desenvolvedor e designer em formação,com interesse em tecnologia, robótica ea
   <img align="center" alt="Git" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div><br>
 
-## 🏆 Prêmios, Cursos e Certificações
+## 🏆 Cursos e Certificações
 
 Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------
-🏅 Scrum Fundamentals Certified - SFC™ | SCRUMstudy | 2020 | Certificação
-🏅 Crei bot através de Web Scraping, Crawling com C# e Selenium | Udemy | 2019 | Curso
-🏅 2º Lugar Hackaton - I Edição HACKAPÃO | UNASP | 2019 | Prêmio
-
+🏅 Curso de Python - Básico | ESCOLA VIRTUAL FUNDAÇÃO BRADESCO | 2025 | Certificação
+🏅 Curso de Python 3: do básico ao avançado | Udemy | 2025 - Em andamento | Curso
+🏅 Web Frontend Completo: HTML, CSS, JS, TS, React e Next | Udemy | 2025 - Em andamento | Curso
+🏅 Entre o Zero e o Um: Uma Imersão no Mundo da Computação Quântica | Bradesco | 2025 | Certificação
 
 <br/>
 <br/>
