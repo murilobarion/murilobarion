@@ -1,12 +1,15 @@
-# Murilo Barion 👨‍💻
+# Murilo Barion
 
-## Jovem Aprendiz | Tecnologia e Desenvolvimento
-
-Me chamo Murilo Barion, sou um eterno curioso. Atualmente, estou no Ensino Médio cursando o Técnico em Informática na Escola Fundação Bradesco.
-
-Sou apaixonado por tecnologia e por transformar ideias em realidade, com foco especial em **Python** e **Robótica/Automação**. Estou sempre buscando aprender mais, seja mergulhando em projetos de código ou criando artes digitais.
-
----
+## 🧑🏽‍💻 Um pouquinho sobre mim:
+<div>
+  <p>
+    Sou Desenvolvedor, apaixonado por tecnologia, com experiência no desenvolvimento de plataformas 
+    Web utilizando as tecnologias atuais do mercado para construção de sistemas Web responsivos, 
+    modernos e adaptáveis (Conhecimentos em: ASP.NET MVC, jQuery, Bootstrap, HTML5, CSS3, JavaScript), 
+    possuindo também experiência na construção de aplicações de Automação de Processos, RPA (Robotic 
+    Process Automation).
+  </p>
+</div>
 
 ## 👨🏽‍💻🚀 Minhas Tecnologias  
   
@@ -21,26 +24,26 @@ Sou apaixonado por tecnologia e por transformar ideias em realidade, com foco es
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br>
 
-</p>
+## 🏆 Prêmios, Cursos e Certificações
 
-<br/>
-<br/>
-<br/>
+Descrição   | Instituição   | Ano | Tipo
+--------- | --------- | ------ | ------
+🏅 Scrum Fundamentals Certified - SFC™ | SCRUMstudy | 2020 | Certificação
+🏅 Crei bot através de Web Scraping, Crawling com C# e Selenium | Udemy | 2019 | Curso
+🏅 2º Lugar Hackaton - I Edição HACKAPÃO | UNASP | 2019 | Prêmio
 
-## Minhas Estatísticas 📊
+## 🌐 Minhas Redes Sociais
+  
+<div> 
+  <a href="https://www.youtube.com/channel/UCHeVeHuy4m3HorYWirak2dg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/artigotech/ivisconfessor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ivisconfessor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-<p>
-  <img
-    align="left"
-    alt="Estatísticas do Murilo no GitHub"
-    height="180"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=murilobarion&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true"
-  />
-  <img
-    align="left"
-    alt="Linguagens mais usadas pelo Murilo"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilobarion&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=6&hide_border=true"
-  />
-</p>
+## ⚙️ Estatísticas GitHub
+
+<div align="center">
+  <a href="https://github.com/ivisconfessor">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ivisconfessor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivisconfessor&layout=compact&langs_count=7&theme=dark"/>
+</div>
