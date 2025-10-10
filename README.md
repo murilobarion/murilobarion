@@ -1,50 +1,51 @@
 # 👩🏻‍💻 Murilo Barion
 
-**`Jovem Aprendiz | Tecnologia e Desenvolvimento`**
+### Jovem Aprendiz | Foco em Tecnologia e Desenvolvimento de Software
 
-Desenvolvedor e designer em formação,com interesse em tecnologia, robótica e automação. Tenho experiência na criação de identidades visuais e estou aprimorando minhas habilidades em Python, HTML, CSS e JavaScript. Busco uma oportunidade como Jovem Aprendizna área de tecnologia, para aplicar meus conhecimentos, desenvolver soluções criativas e evoluir profissionalmente em um ambiente dinâmico e inovador.
+Olá! 👋 Sou um profissional em início de carreira, apaixonado por resolver problemas e criar soluções através da tecnologia. Minha jornada no desenvolvimento de software e design é impulsionada pela curiosidade e pelo desejo de aprender constantemente.
+
+- 🎓 **Formação:** Atualmente aprimorando minhas habilidades em desenvolvimento full-stack e design.
+- 🌱 **Interesses:** Meus principais interesses estão em Python, desenvolvimento web, robótica e automação.
+- 🎯 **Objetivo:** Busco uma oportunidade como **Jovem Aprendiz** na área de tecnologia para aplicar meu conhecimento, contribuir com soluções criativas e crescer profissionalmente em um ambiente inovador.
 
 ---
 
-## 👨🏽‍💻🚀 Minhas Tecnologias  
-  
-<div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C++" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Git" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-</div><br>
+### 🔗 Conecte-se comigo
 
-## 🏆 Cursos e Certificações
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI@gmail.com)
 
-Descrição   | Instituição   | Ano | Tipo
---------- | --------- | ------ | ------
-🏅 Curso de Python - Básico | ESCOLA VIRTUAL FUNDAÇÃO BRADESCO | 2025 | Certificação
-🏅 Curso de Python 3: do básico ao avançado | Udemy | 2025 - Em andamento | Curso
-🏅 Web Frontend Completo: HTML, CSS, JS, TS, React e Next | Udemy | 2025 - Em andamento | Curso
-🏅 Entre o Zero e o Um: Uma Imersão no Mundo da Computação Quântica | Bradesco | 2025 | Certificação
+---
 
-<br/>
-<br/>
+### 🛠️ Habilidades & Ferramentas
 
-### 📊 Estatísticas
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=murilobarion&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilobarion&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### 🏆 Cursos e Certificações
 
+| Descrição | Instituição | Ano | Tipo |
+| --------- | --------- | :---: | ------ |
+| 🏅 Curso de Python - Básico | Fundação Bradesco (Escola Virtual) | 2025 | Certificação |
+| 🏅 Python 3: do básico ao avançado | Udemy | 2025 - Em andamento | Curso |
+| 🏅 Web Frontend Completo | Udemy | 2025 - Em andamento | Curso |
+| 🏅 Imersão em Computação Quântica | Bradesco | 2025 | Certificação |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilobarion&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas de Murilo Barion"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilobarion&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Tecnologias mais usadas"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=murilobarion&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
 </p>
