@@ -4,7 +4,7 @@
 
 Olá! 👋 Sou um profissional em início de carreira, apaixonado por resolver problemas e criar soluções através da tecnologia. Minha jornada no desenvolvimento de software e design é impulsionada pela curiosidade e pelo desejo de aprender constantemente.
 
- ##### Acesse o meu portifólio pessoal!: https://murilobarion.github.io/portifolio-murilobarion/
+ #### Acesse o meu portifólio pessoal!: https://murilobarion.github.io/portifolio-murilobarion/
 
 - 🎓 **Formação:** Atualmente aprimorando minhas habilidades em desenvolvimento full-stack e design.
 - 🌱 **Interesses:** Meus principais interesses estão em Python, desenvolvimento web, robótica e automação.
