@@ -38,8 +38,11 @@ Olá! 👋 Sou um profissional em início de carreira, apaixonado por resolver p
 | 🏅 Curso de Python - Básico | Fundação Bradesco (Escola Virtual) | 2025 | Certificação |
 | 🏅 Python 3: do básico ao avançado | Udemy | 2025 - Em andamento | Curso |
 | 🏅 Web Frontend Completo | Udemy | 2025 - Em andamento | Curso |
-| 🏅 Imersão em Computação Quântica | Bradesco | 2025 | Certificação |
-
+| 🏅 Imersão em Computação Quântica | InovaBra | 2025 | Certificação |
+| 🏅 Python intermediário (1 e 2) | IFSC | 2026 | Certificação |
+| 🏅 Python intermediário (1 e 2) | IFSC | 2026 | Certificação |
+| 🏅 Excel avançado| ENAP| 2026 | Certificação |
+| 🏅 Site com Web Front End | Fundação Bradesco | 2026 | Certificação |
 ---
 
 ### 📊 Estatísticas do GitHub
