@@ -43,6 +43,7 @@ Olá! 👋 Sou um profissional em início de carreira, apaixonado por resolver p
 | 🏅 Python intermediário (1 e 2) | IFSC | 2026 | Certificação |
 | 🏅 Excel avançado| ENAP| 2026 | Certificação |
 | 🏅 Site com Web Front End | Fundação Bradesco | 2026 | Certificação |
+| 🏅 Introdução a POO | Fundação Bradesco | 2026 | Certificação |
 ---
 
 ### 📊 Estatísticas do GitHub
