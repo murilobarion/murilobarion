@@ -50,5 +50,7 @@ Olá! 👋 Sou um profissional em início de carreira, apaixonado por resolver p
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=murilobarion&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=murilobarion&theme=tokyonight&row=1&margin-w=15&no-frame=false" alt="GitHub Trophies" />
+  </a>
 </p>
