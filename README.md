@@ -44,10 +44,3 @@ Olá! 👋 Sou um profissional em início de carreira, apaixonado por resolver p
 | 🏅 Site com Web Front End | Fundação Bradesco | 2026 | Certificação |
 | 🏅 Introdução a POO | Fundação Bradesco | 2026 | Certificação |
 ---
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=murilobarion&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas de Murilo Barion"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=murilobarion&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Tecnologias mais usadas"/>
-</p>
