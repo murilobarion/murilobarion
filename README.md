@@ -6,10 +6,9 @@ Olá! 👋 Sou um profissional em início de carreira, apaixonado por resolver p
 
  #### Acesse o meu portifólio pessoal!: https://murilobarion.github.io/portifolio-murilobarion/
 
-- 🎓 **Formação:** Atualmente aprimorando minhas habilidades em desenvolvimento full-stack.
-- 🌱 **Interesses:** Meus principais interesses estão em Python, java, desenvolvimento web, robótica e automação.
-- 🎯 **Objetivo:** Busco uma oportunidade como **Jovem Aprendiz** na área de tecnologia para aplicar meu conhecimento, contribuir com soluções criativas e crescer profissionalmente em um ambiente inovador.
-
+- 🎓 **Formação:** Atualmente aprimorando minhas habilidades em desenvolvimento de software com foco em Java e ecossistema corporativo.
+- 🌱 **Interesses:** Engenharia de software, desenvolvimento backend (Java/Python), automação e arquitetura de sistemas.
+- 💼 **Experiência Atual:** Jovem Aprendiz em Desenvolvimento de Software Java no programa piloto Bradesco Start, atuando na criação de soluções e aceleração de competências técnicas em um dos maiores bancos do país.
 ---
 
 ### 🔗 Conecte-se comigo
